@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw4-ZikangChenKen/src/main/java/edu/rice/comp322/util/IntPair.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw4-ZikangChenKen/src/main/java/edu/rice/comp322/AbstractBoruvka.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw4-ZikangChenKen/src/main/java/edu/rice/comp322/boruvka/parallel/ParComponent.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw4-ZikangChenKen/src/main/java/edu/rice/comp322/boruvka/parallel/ParBoruvka.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw4-ZikangChenKen/src/main/java/edu/rice/comp322/boruvka/parallel/ParEdge.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw4-ZikangChenKen/src/main/java/edu/rice/comp322/boruvka/Loader.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw4-ZikangChenKen/src/main/java/edu/rice/comp322/boruvka/sequential/SeqEdge.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw4-ZikangChenKen/src/main/java/edu/rice/comp322/boruvka/sequential/SeqBoruvka.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw4-ZikangChenKen/src/main/java/edu/rice/comp322/boruvka/sequential/SeqComponent.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw4-ZikangChenKen/src/main/java/edu/rice/comp322/boruvka/Component.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw4-ZikangChenKen/src/main/java/edu/rice/comp322/boruvka/BoruvkaFactory.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw4-ZikangChenKen/src/main/java/edu/rice/comp322/boruvka/EdgeComparator.java">
+</file>
+<file name="/Users/chenchenzikang/Downloads/COMP 322/hw4-ZikangChenKen/src/main/java/edu/rice/comp322/boruvka/Edge.java">
+</file>
+</checkstyle>
